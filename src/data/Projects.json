@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "UpTask",
+    "description": "Proyecto MERN Stack enfocado en la gestión de proyectos, tareas y colaboradores...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731367266/assets_portfolio/js6qyilvmtrhihjrhxki.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 2,
+    "name": "Control de Gastos",
+    "description": "Permite generar un presupuesto y añadir gastos que se restaran del presupuesto inicial...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731369269/assets_portfolio/dapnbipeobqnzxcevodb.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 3,
+    "name": "Calculadora de Propinas",
+    "description": "Permite realizar cálculos, basado en el consumo y cantidad de propina asignada...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731369690/assets_portfolio/a2usnevaff1y8shts4ee.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 4,
+    "name": "GuitarLa",
+    "description": "Sitio para la venta de guitarras, implementa LocalStorage para la persistencia de los datos...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731369866/assets_portfolio/hvuijils3pbgaw1weoco.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 5,
+    "name": "GuitarLa-vue",
+    "description": "Sitio para la venta de guitarras elaborado con Vue, implementa LocalStorage para la persistencia de los datos...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731370510/assets_portfolio/m8mndzm0a7kti3zrstlf.jpg",
+    "technologies": "React, ts, redux",
+    "core": "Vue",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 6,
+    "name": "Calories Tracker",
+    "description": "Contador de calorías, permite añadir calorías consumidas o quemadas en base a ciertas actividades...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731378915/assets_portfolio/omydek4lmrdkxlnxlgjz.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 7,
+    "name": "Gestión de Citas",
+    "description": "Seguimiento de pacientes de una veterinaria, implementa LocalStorage para la persistencia de los datos...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731372228/assets_portfolio/aojpzztyeivk5pgtx5pl.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 8,
+    "name": "CriptoSearcher",
+    "description": "Consume la API de CryptoCompare para cotizar los datos (precio actual, precio más alto...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731372339/assets_portfolio/dawdjcroj7ivlqr1ortk.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 9,
+    "name": "DrinkSearcher",
+    "description": "Buscador de bebidas por categorías incorporando la API 'TheCocktailDB'...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731372468/assets_portfolio/uryggnkii5dcbw0j0jyx.jpg",
+    "technologies": "React, ts, redux",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  },
+  {
+    "id": 10,
+    "name": "Quiosco de Comida",
+    "description": "Quiosco de comida con Next.js, Server Actions, Prisma, Zod y Zustand, en desarrollo...",
+    "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731456191/assets_portfolio/c7bhk81meelfdz5o0ryn.jpg",
+    "technologies": "React, Next.js, Zod, Zustand",
+    "core": "React",
+    "status": "Deployed / Not Deployed"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730498920/assets_portfolio/fhlujfclou7ebrq1zooa.svg"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500629/assets_portfolio/bg8loqx6efkhdsezfsew.svg"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500629/assets_portfolio/fsmdx3jyaxrfzl7xrlsg.svg"
+  },
+  {
+    "id": 4,
+    "name": "TypeScript",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500628/assets_portfolio/nruj4avsvzhzqh9t07pb.svg"
+  },
+  {
+    "id": 5,
+    "name": "SASS",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500628/assets_portfolio/pms1mmcsnepspjv3gjpj.svg"
+  },
+  {
+    "id": 6,
+    "name": "React",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730495713/assets_portfolio/bln2b1mkmxfhshatb2l1.svg"
+  },
+  {
+    "id": 7,
+    "name": "Tailwind Css",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500627/assets_portfolio/cok48awwddev7obsnrih.svg"
+  },
+  {
+    "id": 8,
+    "name": "Bootstrap",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500627/assets_portfolio/b5frihsdmwj085y5gukf.svg"
+  },
+  {
+    "id": 9,
+    "name": "Node JS",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500627/assets_portfolio/uenz9aoiwpvgafja72f0.svg"
+  },
+  {
+    "id": 10,
+    "name": "Express",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500627/assets_portfolio/gxm7br6ejpfiaujcsvyo.svg"
+  },
+  {
+    "id": 11,
+    "name": "MongoDB",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500627/assets_portfolio/atibo7x9i817fliltncm.svg"
+  },
+  {
+    "id": 12,
+    "name": "Git",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730500627/assets_portfolio/awvzdvimngvj7lerklgk.svg"
+  },
+  {
+    "id": 13,
+    "name": "Github",
+    "source": "https://res.cloudinary.com/dagqsktxx/image/upload/v1730501791/assets_portfolio/hbxyp823icrsh8dm01gr.svg"
+  }
+]
