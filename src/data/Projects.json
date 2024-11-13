@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "UpTask",
-    "description": "Proyecto MERN Stack enfocado en la gestión de proyectos, tareas y colaboradores...",
+    "description": "UpTask es un proyecto MERN Stack enfocado en la gestión de proyectos, tareas y colaboradores. Ofrece una plataforma robusta para la organización y seguimiento de proyectos, permitiendo a los usuarios crear, asignar y monitorear tareas de manera eficiente. El sistema incluye autenticación de usuarios, gestión de roles y actualizaciones en tiempo real para una colaboración fluida entre los miembros del equipo.",
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731367266/assets_portfolio/js6qyilvmtrhihjrhxki.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
