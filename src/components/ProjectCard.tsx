@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+import { ArrowRightCircleIcon } from '@heroicons/react/24/outline';
 import {
   Card,
   CardHeader,
@@ -5,7 +7,6 @@ import {
   CardFooter,
   Image,
 } from '@nextui-org/react';
-import { Link } from 'react-router-dom';
 
 type ProjectCardProps = {
   project: {
@@ -16,6 +17,7 @@ type ProjectCardProps = {
     technologies: string;
     core: string;
     status: string;
+    images: { original: string; thumbnail: string }[];
   };
 };
 
@@ -68,7 +70,10 @@ export default function ProjectCard({ project }: ProjectCardProps) {
           state={project}
           className="rounded-full text-white bg-blue-600 px-4 py-2 cursor-pointer text-base font-medium hover:bg-blue-800 transition-colors"
         >
-          Ver proyecto
+          <div className="flex gap-2 items-center">
+            <p>Ver proyecto</p>
+            <ArrowRightCircleIcon className="w-6 h-6" />
+          </div>
         </Link>
       </CardFooter>
     </Card>

@@ -6,7 +6,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731367266/assets_portfolio/js6qyilvmtrhihjrhxki.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731367266/assets_portfolio/js6qyilvmtrhihjrhxki.jpg",
+        "thumbnail": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731367266/assets_portfolio/js6qyilvmtrhihjrhxki.jpg"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +29,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731369269/assets_portfolio/dapnbipeobqnzxcevodb.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,7 +52,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731369690/assets_portfolio/a2usnevaff1y8shts4ee.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 4,
@@ -33,7 +75,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731369866/assets_portfolio/hvuijils3pbgaw1weoco.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +98,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731370510/assets_portfolio/m8mndzm0a7kti3zrstlf.jpg",
     "technologies": "React, ts, redux",
     "core": "Vue",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +121,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731378915/assets_portfolio/omydek4lmrdkxlnxlgjz.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 7,
@@ -60,7 +144,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731372228/assets_portfolio/aojpzztyeivk5pgtx5pl.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 8,
@@ -69,7 +167,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731372339/assets_portfolio/dawdjcroj7ivlqr1ortk.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 9,
@@ -78,7 +190,21 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731372468/assets_portfolio/uryggnkii5dcbw0j0jyx.jpg",
     "technologies": "React, ts, redux",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   },
   {
     "id": 10,
@@ -87,6 +213,20 @@
     "image": "https://res.cloudinary.com/dagqsktxx/image/upload/v1731456191/assets_portfolio/c7bhk81meelfdz5o0ryn.jpg",
     "technologies": "React, Next.js, Zod, Zustand",
     "core": "React",
-    "status": "Deployed / Not Deployed"
+    "status": "Deployed / Not Deployed",
+    "images": [
+      {
+        "original": "https://picsum.photos/id/1018/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1018/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1015/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1015/250/150/"
+      },
+      {
+        "original": "https://picsum.photos/id/1019/1000/600/",
+        "thumbnail": "https://picsum.photos/id/1019/250/150/"
+      }
+    ]
   }
 ]
