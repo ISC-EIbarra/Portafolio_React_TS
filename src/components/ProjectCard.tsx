@@ -18,6 +18,8 @@ type ProjectCardProps = {
     core: string;
     status: string;
     images: { original: string; thumbnail: string }[];
+    github: string;
+    web: string;
   };
 };
 
