@@ -5,19 +5,7 @@ import 'react-image-gallery/styles/css/image-gallery.css';
 import Section from '../components/Section';
 import { Button } from '@nextui-org/react';
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
-
-interface Project {
-  id: number;
-  name: string;
-  description: string;
-  image: string;
-  technologies: string;
-  core: string;
-  status: string;
-  images: { original: string; thumbnail: string }[];
-  github: string;
-  web: string;
-}
+import { Project } from '../types';
 
 export default function ProjectDetails() {
   const [images, setImages] = useState<

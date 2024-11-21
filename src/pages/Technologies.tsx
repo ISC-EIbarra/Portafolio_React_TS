@@ -1,5 +1,5 @@
 import { Tooltip } from '@nextui-org/react';
-import technologies from '../data/Technologies.json';
+import { dbTech } from '../data/db';
 
 export default function Technologies() {
   return (
@@ -8,7 +8,7 @@ export default function Technologies() {
         Tecnologías
       </h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-8">
-        {technologies.map((tech) => (
+        {dbTech.map((tech) => (
           <Tooltip
             key={tech.id}
             showArrow={true}

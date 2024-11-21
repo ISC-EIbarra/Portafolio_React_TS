@@ -7,20 +7,10 @@ import {
   CardFooter,
   Image,
 } from '@nextui-org/react';
+import { Project } from '../types';
 
 type ProjectCardProps = {
-  project: {
-    id: number;
-    name: string;
-    description: string;
-    image: string;
-    technologies: string;
-    core: string;
-    status: string;
-    images: { original: string; thumbnail: string }[];
-    github: string;
-    web: string;
-  };
+  project: Project;
 };
 
 export default function ProjectCard({ project }: ProjectCardProps) {
