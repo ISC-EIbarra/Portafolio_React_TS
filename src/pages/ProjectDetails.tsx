@@ -5,12 +5,10 @@ import 'react-image-gallery/styles/css/image-gallery.css';
 import Section from '../components/Section';
 import { Button } from '@nextui-org/react';
 import { GlobeAltIcon } from '@heroicons/react/24/outline';
-import { Project } from '../types';
+import { Project, ProjectImage } from '../types';
 
 export default function ProjectDetails() {
-  const [images, setImages] = useState<
-    { original: string; thumbnail: string }[]
-  >([]);
+  const [images, setImages] = useState<ProjectImage[]>([]);
   const location = useLocation();
   const navigate = useNavigate();
   const project = location.state as Project;
