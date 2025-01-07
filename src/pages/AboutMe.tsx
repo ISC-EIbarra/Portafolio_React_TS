@@ -9,8 +9,12 @@ export default function AboutMe() {
               <span className="text-[#fecc1b] text-xl md:text-2xl lg:text-3xl">
                 Desarrollador Full Stack
               </span>{' '}
-              <span className="font-medium text-white text-base md:text-lg lg:text-xl">
-                Apasionado por crear experiencias web increíbles.
+              <span className="mt-4 font-medium text-white text-base md:text-lg lg:text-xl">
+                He adquirido habilidades en diversas áreas del desarrollo,
+                también he tenido participación en la documentación de código de
+                proyectos. Además de trabajar en proyectos profesionales,
+                también desarrollo proyectos por cuenta propia, algunos de los
+                cuáles encontrarás en este portafolio.
               </span>{' '}
             </p>
           </h1>
