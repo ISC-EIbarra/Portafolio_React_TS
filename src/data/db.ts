@@ -442,9 +442,10 @@ export const dbProject: Project[] = [
       'El quiosco de comida está dividido en varias secciones para una experiencia fluida tanto para los clientes como para el personal. En la primera sección, los clientes pueden explorar distintas categorías de comida, seleccionar sus productos favoritos y ajustar la cantidad de su orden. Al ingresar su nombre y revisar el total a pagar, pueden confirmar su pedido. La segunda sección está destinada a la cocina, donde el personal recibe los pedidos con los detalles del cliente y los productos seleccionados. Desde allí, pueden marcar las órdenes como completadas una vez estén listas. La tercera sección muestra las órdenes completadas, permitiendo que el personal avise al cliente cuando su pedido esté listo para ser entregado. Finalmente, en el área administrativa, los encargados pueden gestionar los productos visibles para los clientes, con la opción de crear, editar o eliminar artículos del menú, asegurando que siempre haya opciones actualizadas.',
     image:
       'https://res.cloudinary.com/dagqsktxx/image/upload/v1735246847/assets_portfolio/QuioscoNext/ymyox6zyfxdjb9zwczte.jpg',
-    technologies: 'React, Next.js, Server Actions, Prisma, Zod y Zustand',
+    technologies:
+      'React, Next.js 15, Server Actions, App Router, TypeScript, ZOD, Zustand',
     core: 'React',
-    status: 'Not Deployed - Under Development',
+    status: 'Deployed',
     images: [
       {
         original:
@@ -458,8 +459,38 @@ export const dbProject: Project[] = [
         thumbnail:
           'https://res.cloudinary.com/dagqsktxx/image/upload/w_250,h_150,c_fill/v1735246847/assets_portfolio/QuioscoNext/xj0m8fptvugpocbjyjo9.jpg',
       },
+      {
+        original:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/v1740181966/assets_portfolio/QuioscoNext/quiosco_next-orders_svqtcv.jpg',
+        thumbnail:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/w_250,h_150,c_fill/v1740181966/assets_portfolio/QuioscoNext/quiosco_next-orders_svqtcv.jpg',
+      },
+      {
+        original:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/v1740181965/assets_portfolio/QuioscoNext/quiosco_next-products_ch640u.jpg',
+        thumbnail:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/w_250,h_150,c_fill/v1740181965/assets_portfolio/QuioscoNext/quiosco_next-products_ch640u.jpg',
+      },
+      {
+        original:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/v1740181965/assets_portfolio/QuioscoNext/quiosco_next-search_doewwq.jpg',
+        thumbnail:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/w_250,h_150,c_fill/v1740181965/assets_portfolio/QuioscoNext/quiosco_next-search_doewwq.jpg',
+      },
+      {
+        original:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/v1740181964/assets_portfolio/QuioscoNext/quiosco_next-editProduct_nm4wdd.jpg',
+        thumbnail:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/w_250,h_150,c_fill/v1740181964/assets_portfolio/QuioscoNext/quiosco_next-editProduct_nm4wdd.jpg',
+      },
+      {
+        original:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/v1740181966/assets_portfolio/QuioscoNext/quiosco_next-ordersReady_aot8vi.jpg',
+        thumbnail:
+          'https://res.cloudinary.com/dagqsktxx/image/upload/w_250,h_150,c_fill/v1740181966/assets_portfolio/QuioscoNext/quiosco_next-ordersReady_aot8vi.jpg',
+      },
     ],
-    github: 'https://google.com',
-    web: 'https://google.com',
+    github: 'https://github.com/ISC-EIbarra/quiosco_nextjs',
+    web: 'https://quiosco-nextjs-eta.vercel.app/order/cafe',
   },
 ];
